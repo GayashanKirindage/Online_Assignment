@@ -1,0 +1,5 @@
+com\SellNBuy\Ship_Details_SellNBuy\dao\ShippingDAO.class
+com\SellNBuy\Ship_Details_SellNBuy\repository\ShippingRepository.class
+com\SellNBuy\Ship_Details_SellNBuy\controller\ShippingController.class
+com\SellNBuy\Ship_Details_SellNBuy\model\Shipping.class
+com\SellNBuy\Ship_Details_SellNBuy\ShippingApplication.class
